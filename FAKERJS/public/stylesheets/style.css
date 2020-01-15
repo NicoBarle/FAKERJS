@@ -1,0 +1,19 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+a{
+font-size: 30px;
+}
+body {
+    background: rgb(70, 55, 206);
+    background: -moz-linear-gradient(left, rgb(206, 55, 138) 0%, rgb(164, 28, 157) 60%,
+#C59237 100%);
+    background: -webkit-linear-gradient(left, #CE5637 0%, #1C9EA4 60%,
+#C59237 100%);
+    background: linear-gradient(to right, rgb(55, 189, 207) 0%, #1C6EA4 60%,
+#C59237 100%);
+}
+.floatLeft {
+    float:left;
+}
